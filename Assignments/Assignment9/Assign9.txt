@@ -1,0 +1,1 @@
+arcpy.analysis.Statistics("USA_State1_SpatialJoin", r"C:\Users\Administrator\Documents\ArcGIS\Projects\Assignment 9\Assignment 9.gdb\USA_State1_SpatialJoin_Stati1", "inj SUM;fat SUM;loss SUM;closs SUM", "STATE_NAME")
